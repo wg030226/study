@@ -8,4 +8,5 @@ int main()
 	scanf("%d",&age);
 	
 	printf("우와 당신은 %d살이군요!", age); 
+	//test
 }
